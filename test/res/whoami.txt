@@ -1,0 +1,2 @@
+SERVING FROM: C:\Users\stefan.bambuleac\Documents\nothing-ear-pc\
+BUILD: v8
