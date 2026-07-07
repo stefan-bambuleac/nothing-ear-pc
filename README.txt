@@ -1,6 +1,3 @@
-# nothing-ear-pc
-This is the repo for unofficial port of Nothing X to PC for nothing ear 3.
-
 ear (PC) + Nothing Ear (3) — complete bundle
 
 1. Extract this zip anywhere (e.g. C:\ear-pc)
