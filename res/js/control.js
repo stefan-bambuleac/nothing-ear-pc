@@ -1,4 +1,3 @@
-console.log("EAR3 BUILD v8", location.href);
 
 async function getDevicesJS() {
     let n = await eel.getDevices()();
@@ -26,8 +25,6 @@ function updateBattery(leftText, caseText, rightText) {
 
 
 function getImageForModel(modelID) {
-    return "../assets/ear_three_white_right.png?v8";
-
     var modelInfo = getModelInfo(modelID);
     return modelInfo.rightImg;
 }
@@ -46,20 +43,13 @@ function updateBudsInfo(modelID) {
 }
 
 function getModelInfo(modelID) {
-    return { name: "Nothing Ear (3)",
-        leftImg: "../assets/ear_three_white_left.png?v8",
-        caseImg: "../assets/ear_three_white_case.png?v8",
-        rightImg: "../assets/ear_three_white_right.png?v8",
-        duoImg: "../assets/ear_three_white_duo.png?v8",
-        isANC: true };
-
     var models = {
         "31d53d": {
             name: "Nothing Ear (1)",
-            leftImg: "../assets/ear_one_white_left.png?v=5",
-            caseImg: "../assets/ear_one_white_case.png?v=5",
-            rightImg: "../assets/ear_one_white_right.png?v=5",
-            duoImg: "../assets/ear_one_white_duo.png?v=5",
+            leftImg: "../assets/ear_one_white_left.png",
+            caseImg: "../assets/ear_one_white_case.png",
+            rightImg: "../assets/ear_one_white_right.png",
+            duoImg: "../assets/ear_one_white_duo.png",
             isANC: true
         },
         "624011": {
@@ -75,23 +65,23 @@ function getModelInfo(modelID) {
             leftImg: "../assets/ear_stick_left.png",
             caseImg: "../assets/ear_stick_case_none.png",
             rightImg: "../assets/ear_stick_right.png",
-            duoImg: "../assets/ear_stick_white_duo.png?v=5",
+            duoImg: "../assets/ear_stick_white_duo.png",
             isANC: false
         },
         "dee8c0": {
             name: "Nothing Ear (3)",
-            leftImg: "../assets/ear_three_white_left.png?v=5",
-            caseImg: "../assets/ear_three_white_case.png?v=5",
-            rightImg: "../assets/ear_three_white_right.png?v=5",
-            duoImg: "../assets/ear_three_white_duo.png?v=5",
+            leftImg: "../assets/ear_three_white_left.png",
+            caseImg: "../assets/ear_three_white_case.png",
+            rightImg: "../assets/ear_three_white_right.png",
+            duoImg: "../assets/ear_three_white_duo.png",
             isANC: true
         },
         "acc520": {
             name: "Nothing Ear (3)",
-            leftImg: "../assets/ear_three_white_left.png?v=5",
-            caseImg: "../assets/ear_three_white_case.png?v=5",
-            rightImg: "../assets/ear_three_white_right.png?v=5",
-            duoImg: "../assets/ear_three_white_duo.png?v=5",
+            leftImg: "../assets/ear_three_white_left.png",
+            caseImg: "../assets/ear_three_white_case.png",
+            rightImg: "../assets/ear_three_white_right.png",
+            duoImg: "../assets/ear_three_white_duo.png",
             isANC: true
         }
     };

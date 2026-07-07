@@ -5,7 +5,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7e700: _process_message({'return': 11.050475883352977, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b4559620: _process_message({'return': 11.73070091965573, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -13,7 +13,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7ea20: _process_message({'return': 13.745566857823627, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b4559620: _process_message({'return': 13.102564518725766, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -21,7 +21,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7eac0: _process_message({'return': 14.567691153851777, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466d760: _process_message({'return': 14.716248089956446, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -29,7 +29,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7eb60: _process_message({'return': 15.075410535282137, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466eca0: _process_message({'return': 15.880935958796464, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -37,7 +37,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7eb60: _process_message({'return': 16.153084380679214, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466ec00: _process_message({'return': 16.87226920042957, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -45,7 +45,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7eac0: _process_message({'return': 17.595349120774646, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b4559620: _process_message({'return': 17.55768781865689, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -53,7 +53,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7e8e0: _process_message({'return': 18.423974194806863, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466ec00: _process_message({'return': 18.728098724735315, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -61,7 +61,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7e980: _process_message({'return': 20.138578523970324, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466ec00: _process_message({'return': 20.056633572099834, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -69,7 +69,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7e700: _process_message({'return': 21.00600990302162, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466ed40: _process_message({'return': 21.346782164600487, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -77,7 +77,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7ef20: _process_message({'return': 22.68417493481607, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466ee80: _process_message({'return': 22.16012805460667, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -85,7 +85,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7ee80: _process_message({'return': 23.162893963174557, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466ede0: _process_message({'return': 23.850039875064873, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -93,7 +93,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f100: _process_message({'return': 26.5751060016698, 'status': 'error', 'e, <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466eca0: _process_message({'return': 26.72948040869789, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -101,7 +101,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f240: _process_message({'return': 28.696130917787272, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f060: _process_message({'return': 28.83083303587476, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -109,7 +109,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f2e0: _process_message({'return': 29.911358224821775, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f100: _process_message({'return': 29.269808782663794, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -117,7 +117,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f380: _process_message({'return': 30.013723149187328, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f1a0: _process_message({'return': 30.343753557967247, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -125,7 +125,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f420: _process_message({'return': 31.529839812230396, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f240: _process_message({'return': 31.375302512165696, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -133,7 +133,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f4c0: _process_message({'return': 32.595808470190356, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f2e0: _process_message({'return': 32.49192862406015, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -141,7 +141,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f560: _process_message({'return': 33.312257507703286, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f380: _process_message({'return': 33.41447786435318, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -149,7 +149,7 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f6a0: _process_message({'return': 35.809697093528506, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f4c0: _process_message({'return': 35.07319061266558, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
@@ -157,37 +157,5 @@ Traceback (most recent call last):
     _call_return_values[call_id] = message['value']
                                    ~~~~~~~^^^^^^^^^
 KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f740: _process_message({'return': 36.50481166435757, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
-
-Traceback (most recent call last):
-  File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
-  File "C:\Users\stefan.bambuleac\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\eel\__init__.py", line 565, in _process_message
-    _call_return_values[call_id] = message['value']
-                                   ~~~~~~~^^^^^^^^^
-KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7fb00: _process_message({'return': 20.138578523970324, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
-
-Traceback (most recent call last):
-  File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
-  File "C:\Users\stefan.bambuleac\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\eel\__init__.py", line 565, in _process_message
-    _call_return_values[call_id] = message['value']
-                                   ~~~~~~~^^^^^^^^^
-KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7fba0: _process_message({'return': 21.00600990302162, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
-
-Traceback (most recent call last):
-  File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
-  File "C:\Users\stefan.bambuleac\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\eel\__init__.py", line 565, in _process_message
-    _call_return_values[call_id] = message['value']
-                                   ~~~~~~~^^^^^^^^^
-KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f9c0: _process_message({'return': 35.809697093528506, 'status': 'error', , <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
-
-Traceback (most recent call last):
-  File "src/gevent/greenlet.py", line 912, in gevent._gevent_cgreenlet.Greenlet.run
-  File "C:\Users\stefan.bambuleac\AppData\Local\Python\pythoncore-3.11-64\Lib\site-packages\eel\__init__.py", line 565, in _process_message
-    _call_return_values[call_id] = message['value']
-                                   ~~~~~~~^^^^^^^^^
-KeyError: 'value'
-2026-07-07T06:29:07Z <Greenlet at 0x213b7b7f880: _process_message({'return': 36.50481166435757, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
+2026-07-07T07:52:14Z <Greenlet at 0x230b466f560: _process_message({'return': 36.62057330224295, 'status': 'error', ', <geventwebsocket.websocket.WebSocket object at 0x0)> failed with KeyError
 

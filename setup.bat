@@ -9,7 +9,7 @@ title ear (PC) + Nothing Ear (3) — setup
 ::  This script: Python 3.11 -> deps -> electron UI -> ear-pc.exe ->
 ::               desktop shortcut -> launch. Rerun-safe.
 :: ================================================================
-
+py -3.11 interface_v3_clean.py 
 if not exist main.pyc ( echo [x] run from extracted folder & pause & exit /b 1 )
 
 :: ---- [1/6] Python 3.11 (probe by output — py manager exit codes lie)

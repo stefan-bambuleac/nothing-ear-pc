@@ -1,2 +1,2 @@
-SERVING FROM: C:\Users\stefan.bambuleac\Downloads\ear-pc-Web-v4\
+SERVING FROM: C:\Users\stefan.bambuleac\Downloads\ear-pc-all\
 BUILD: v8
